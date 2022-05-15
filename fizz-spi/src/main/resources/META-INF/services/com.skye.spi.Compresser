@@ -1,0 +1,3 @@
+gzip=com.skye.spi.GzipCompresser
+zip=com.skye.spi.ZipCompresser
+
