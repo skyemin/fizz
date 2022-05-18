@@ -12,6 +12,7 @@
         <module>fizz-spi</module>
         <module>fizz-common</module>
         <module>fizz-all</module>
+        <module>fizz-loadbalance</module>
     </modules>
 
     <properties>

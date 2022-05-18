@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="fizz-spi" />
         <module name="fizz-all" />
+        <module name="fizz-loadbalance" />
         <module name="fizz-common" />
       </profile>
     </annotationProcessing>
