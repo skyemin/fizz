@@ -8,6 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="fizz-spi" />
+        <module name="fizz-lock" />
         <module name="fizz-all" />
         <module name="fizz-loadbalance" />
         <module name="fizz-cache" />
