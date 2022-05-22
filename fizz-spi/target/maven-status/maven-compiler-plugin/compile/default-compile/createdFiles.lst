@@ -1,0 +1,8 @@
+com\skye\spi\extension\Holder.class
+com\skye\spi\Compresser.class
+com\skye\spi\annotation\SPIExtension.class
+com\skye\spi\GzipCompresser.class
+com\skye\spi\Main.class
+com\skye\spi\annotation\SPI.class
+com\skye\spi\extension\ExtensionLoader.class
+com\skye\spi\ZipCompresser.class
