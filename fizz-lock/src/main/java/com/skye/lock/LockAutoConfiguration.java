@@ -38,11 +38,7 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- * 自动装配
- *
- * @author TanRq
- */
+
 @Configuration
 @EnableConfigurationProperties(LockConfig.class)
 @Import({ LockInterceptor.class })

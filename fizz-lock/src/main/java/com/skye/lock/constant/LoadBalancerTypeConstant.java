@@ -1,13 +1,5 @@
 package com.skye.lock.constant;
 
-/**
- * 负载均衡算法类型
- *
- * @author 54lxb
- * @version 1.1.0
- * @apiNote 知识改变命运，技术改变世界
- * @since 2018-12-23 15:27
- */
 public interface LoadBalancerTypeConstant {
 
     String RANDOM_LOAD_BALANCER = "RandomLoadBalancer";

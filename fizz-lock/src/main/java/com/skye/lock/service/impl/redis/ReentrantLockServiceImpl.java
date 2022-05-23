@@ -9,11 +9,7 @@ import org.redisson.api.RedissonClient;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
 
-/**
- * 可重入锁加锁服务
- * @author TanRq
- *
- */
+
 public class ReentrantLockServiceImpl implements LockService {
 	
 	@Qualifier("lockRedissonClient")

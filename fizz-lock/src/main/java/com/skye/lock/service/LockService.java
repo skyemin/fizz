@@ -3,11 +3,7 @@ package com.skye.lock.service;
 
 import com.skye.lock.core.key.LockKey;
 
-/**
- * 锁服务
- * @author TanRq
- *
- */
+
 public interface LockService {
 	
 	/**

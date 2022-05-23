@@ -4,11 +4,7 @@ import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 import java.util.Random;
 
-/**
- * 工具类
- * @author TanRq
- *
- */
+
 public class LockUtil {
 	
 	/**

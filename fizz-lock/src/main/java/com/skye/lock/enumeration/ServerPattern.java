@@ -1,10 +1,6 @@
 package com.skye.lock.enumeration;
 
-/**
- * Redis的运行模式
- *
- * @author TanRq
- */
+
 public enum ServerPattern {
 
     /**

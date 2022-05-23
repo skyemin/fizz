@@ -6,12 +6,7 @@ import com.skye.lock.util.SpringUtil;
 
 import java.util.EnumMap;
 
-/**
- * 工厂Bean
- * 
- * @author TanRq
- *
- */
+
 public class FactoryBean {
 
 	private static EnumMap<LockScheme, Class<?>> factoryMap = new EnumMap<>(LockScheme.class);
